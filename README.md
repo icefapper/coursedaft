@@ -37,7 +37,7 @@ first go and grab yourself a google <hr0m3 (or, equally, "a chrome"); in case th
 
 
 
-*run it on a python3. when the program dies, naturally or else, it'd leave a "coursedaft.pdf" containing all its achievements.
+*run it on a python3. when the program dies, naturally or else, it'd be survivd by a "coursedaft.pdf" containing all its achievements.
 
 
 
