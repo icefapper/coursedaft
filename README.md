@@ -47,4 +47,4 @@ first go and grab yourself a google <hr0m3 (or, equally, "a chrome"); in case th
 
 
 
-*finally, be warned; this is an early beta scale project ( i.e, something like a microsoft product.). use it at all but your own risk; all your feedback is most appreciated, either by filing issues on this site or droppn me a mail on "icefapperatlarrydotcom"(replace larry with gmai*); your help would especially be a must in aiding me clean up the mess i've made. thanks a lot for reading this long.
+*finally, be warned; this is an early beta scale project ( i.e, something like a microsoft RC product, or a shippn App*e one.). use it at all but your own risk; all your feedback is most appreciated, either by filing issues on this site or droppn me a mail on "icefapperatlarrydotcom"(replace larry with gmai*); your help would especially be a must in aiding me clean up the mess i've made. thanks a lot for reading this long.
