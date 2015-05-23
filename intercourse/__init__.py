@@ -69,8 +69,9 @@ def loadPage(b):
 
     elif (firstByte == 3):
         fromStream(page, ba)
-        return HandleSpecialCase(page, ba)
+        if (page['PaidView'   ]  ) :return HandleSpecialCase(page, ba)
 
+        return (ba   .        read  (  -1  ) )
     elif (firstByte == 4):
         error("this.HandleRetryRequestFromServer(page)")
 
