@@ -5,7 +5,7 @@ a  dirty, young tool to convert swf/pf (*cough* coursesmart)"back" to pdf
 it is a barebone(in the sense that it currently has very few loaders and processors for converting a whole pf back into the pdf it has once been), but complete(in the sense that it does an exact conversion,most prominently preserving clipping paths and , needless to say, all fonts, in unicode, for the better) pf(i.e, PageFidel, a bastardization of pdf into swf to make it unusably unportable) to pdf converter. it does also convert swf, but only if it falls in the pf action domain. otherwise, the"swf" part is merely a beard term. sorry for the contrieved description. i'm half-retard, at my best.
 
 #how it is used
-* (i'm literally obsessed about the word <hr0m3 so my apologies beforehand in case it causes you cofnusion -- i'm also obsessed about f's following n's ; they always preceed it in my prose, even when they must not.)
+* (i'm literally obsessed about the word <hr0m3 so my apologies beforehand in case it causes you cofnusion -- i'm also obsessed about f's following n's ; they always precede it in my prose, even when they must not.)
 first go and grab yourself a google <hr0m3 (or, equally, "a chrome"); in case there is a <hr0m3 already installed on your machine, then great. all you have to do is to optionally clear its cache in order to make your task of trudging among the pdf's pages much easier (oxymoron intended, though it could be ignord.)
 
 * open <hr0m3 and go to sean devine's crapsite. it is mostly located on the coursesmart.com thing.
